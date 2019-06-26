@@ -1,0 +1,4 @@
+#Wed Jun 26 08:21:01 IRDT 2019
+base.0=E\:\\Flutter Projects\\Instagram\\instagram\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
